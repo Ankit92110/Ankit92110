@@ -28,8 +28,8 @@
 
 ### 📊 My GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iam-harshit&theme=radical&hide_border=true&card_width=470)](https://git.io/streak-stats)
-[![Harshit GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-harshit&show_icons=true&theme=radical&rank_icon=percentile&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ankit92110&theme=radical&hide_border=true&card_width=470)](https://git.io/streak-stats)
+[![Harshit GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankit92110&show_icons=true&theme=radical&rank_icon=percentile&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Let's connect:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/ankit-mishra-707871218/) 

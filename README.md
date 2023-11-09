@@ -1,11 +1,11 @@
-<!--- 👋 Hi, I’m Ankit kumar Mishra
-- 👀 I’m interested in software Development
-- 🌱 I’m currently doing a jon in crio.Do as a backend developer project engineer.
+<!--- 👋 Hi, I’m Ankit Kumar Mishra
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently doing a job in Crio. Do as a backend developer project engineer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...-->
-### Hi there 👋
+I'd appreciate it if you could reach me.
 
-#### I'm Ankit kumar Mishra, a passionate Backend Developer from India.
+#### I'm Ankit Kumar Mishra, a passionate Backend Developer from India.
 
 - 🔭 I’m currently working in **Crio.Do**
 - 🌱 I’m currently learning **Spring Security**

@@ -24,6 +24,7 @@ I'd appreciate it if you could reach me.
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5) 
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3) 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) 

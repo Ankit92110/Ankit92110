@@ -1,6 +1,6 @@
 <!--- 👋 Hi, I’m Ankit Kumar Mishra
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently doing a job in Crio. Do as a backend developer project engineer.
+- 🌱 I’m currently doing a job in American Express (parent company - Impetus Technologies Of India Pvt Ltd) as an Associate Software engineer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...-->
 I'd appreciate it if you could reach me.

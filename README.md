@@ -5,7 +5,7 @@
 - 📫 How to reach me ...-->
 I'd appreciate it if you could reach me.
 
-#### I'm Ankit Kumar Mishra, a passionate Backend Developer from India.
+#### I'm Ankit Kumar Mishra, a Software Engineer  from India.
 
 - 🔭 I’m currently working in **American Express (parent company - Impetus Technologies Of India Pvt Ltd)**
 - 🌱 I’m currently learning **Spring Security**

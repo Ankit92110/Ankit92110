@@ -7,7 +7,7 @@ I'd appreciate it if you could reach me.
 
 #### I'm Ankit Kumar Mishra, a passionate Backend Developer from India.
 
-- 🔭 I’m currently working in **Crio.Do**
+- 🔭 I’m currently working in **American Express (parent company - Impetus Technologies Of India Pvt Ltd)**
 - 🌱 I’m currently learning **Spring Security**
 - 👯 I’m looking to collaborate on **Spring Boot Open Source Project**
 - 💬 Ask me about **Java**,**C++**,**Spring Boot**,**Data Structure**,**DBMS**,**SQL**

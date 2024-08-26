@@ -10,9 +10,9 @@
          height="45"
          width="45" />, I'm Ankit Mishra</h1>
 
-- 🔭 Currently **contributing** at **American Express (under the parent company, Impetus Technologies of India Pvt Ltd)**.
+- 🔭 Currently contributing at American Express (Parent Org: Impetus).
 <h3 align="center"> Software Engineer</h3>
-<img align="center" alt="coding"  width="800" height="300" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+<img align="center" alt="coding"  width="800" height="300" src="[https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fwhich-tool-is-used-to-make-deployment-diagrams-animated-v0-p9hudstdr9db1.gif%3Fwidth%3D800%26auto%3Dwebp%26s%3D9ddbbfa0fbf5fc4ff3500694680b67269bea51cb)"/>
 <!----
 - 🌱 I’m currently learning **Spring Security**
 -------->

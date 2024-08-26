@@ -10,7 +10,9 @@
          height="45"
          width="45" />, I'm Ankit Mishra</h1>
 
-- 🔭 Currently contributing at American Express (Parent Org: Impetus).
+- 🔭 Currently contributing at American Express (Parent Org: Impetus Technologies Of India Pvt Ltd).
+- 🔭 I am a motivated learner, always looking forward to improving my skills, learning new technologies, and contributing to cutting-edge technologies. Building and contributing to the development of resilient software products is my forte...
+
 <h3 align="center"> Software Engineer</h3>
 <img align="center" alt="coding"  width="800" height="300" src="[https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif]"/>
 <!----

@@ -3,19 +3,26 @@
 - 🌱 I’m currently doing a job in American Express (parent company - Impetus Technologies Of India Pvt Ltd) as an Associate Software engineer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...-->
-I'd appreciate it if you could reach me.
 
-#### I'm Ankit Kumar Mishra, a Software Engineer  from India.
 
-- 🔭 I’m currently working in **American Express (parent company - Impetus Technologies Of India Pvt Ltd)**
+ <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Ankit Mishra</h1>
+
+- 🔭 Currently **contributing** at **American Express (under the parent company, Impetus Technologies of India Pvt Ltd)**.
+<h3 align="center"> Software Engineer</h3>
+<img align="center" alt="coding"  width="800" height="300" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+<!----
 - 🌱 I’m currently learning **Spring Security**
+-------->
 - 👯 I’m looking to collaborate on **Spring Boot Open Source Project**
-- 💬 Ask me about **Java**,**C++**,**Spring Boot**,**Data Structure**,**DBMS**,**SQL**
+- 💬 Ask me about **Java**,**C++**,**Spring Boot**,**Data Structure**,**DBMS**,**SQL**,**System Design**,**Docker**,**Cucumber**
 - 📫 How to reach me: **📧 [Email](mailto:ankitmishra28799@gmail.com) or 🌐 [LinkedIn](https://www.linkedin.com/in/ankit-mishra-707871218/)**
 - 😄 Pronouns: **he/him/his**
-- ⚡ Fun fact: **Big Fan of the 🔥 emoji**
+<!-- - ⚡ Fun fact: **Big Fan of the 🔥 emoji** -->
 
-### Tools & Technologies:
+<h2 align="center">Languages and Tools</h2>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 ![Spring-Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) 
@@ -36,14 +43,27 @@ I'd appreciate it if you could reach me.
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
+<h2 align="center">Languages used</h2>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit92110&layout=compact&theme=midnight-purple" /></p>
+<!-- Stats -->
+<h2 align="center">My Github stats</h2>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Ankit92110&count_private=true&show_icons=true&theme=radical" /></p>
+<!-- Streak -->
+<h2 align="center">My Github Streaks</h2>
+<a align= "center" href="https://github.com/AyushiChopra02">
+<p align="center"><img alt= "stats card" height="200px" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit92110&theme=radical">
+</a></p>
+<!---
 ### 📊 My GitHub Stats:
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ankit92110&theme=radical&hide_border=true&card_width=470)](https://git.io/streak-stats)
-[![Harshit GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankit92110&show_icons=true&theme=radical&rank_icon=percentile&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ankit GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankit92110&show_icons=true&theme=radical&rank_icon=percentile&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+...-->
 
 ### Let's connect:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/ankit-mishra-707871218/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=Instagram)](https://www.instagram.com/rajmishra1962/)
+
+ 
 <!---
 Ankit92110/Ankit92110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

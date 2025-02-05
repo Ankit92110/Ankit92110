@@ -59,7 +59,7 @@
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Ankit92110&count_private=true&show_icons=true&theme=radical" /></p>
 <!-- Streak -->
 <h2 align="center">My Github Streaks</h2>
-<a align= "center" href="https://github.com/AyushiChopra02">
+<a align= "center" href="https://github.com/Ankit92110">
 <p align="center"><img alt= "stats card" height="200px" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit92110&theme=radical">
 </a></p>
 <!---
